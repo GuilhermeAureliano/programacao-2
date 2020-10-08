@@ -1,2 +1,2 @@
-# Programacao - 2
-Repositório para salver meus códigos dos Laboratórios de Programação 2 - UFCG.
+# Laboratório de Programação 2 - 2020.1
+Repositório para salvar meus códigos da disciplina de LP2.
